@@ -1,0 +1,15 @@
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.AssemblyInfo.cs
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.sourcelink.json
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\bin\Debug\net8.0\mis-221-lab-4-smrayon.exe
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\bin\Debug\net8.0\mis-221-lab-4-smrayon.deps.json
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\bin\Debug\net8.0\mis-221-lab-4-smrayon.runtimeconfig.json
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\bin\Debug\net8.0\mis-221-lab-4-smrayon.dll
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\bin\Debug\net8.0\mis-221-lab-4-smrayon.pdb
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.dll
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\refint\mis-221-lab-4-smrayon.dll
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.pdb
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\mis-221-lab-4-smrayon.genruntimeconfig.cache
+C:\Users\sofia\OneDrive\School 24-25\MIS\labs\mis-221-lab-4-smrayon\obj\Debug\net8.0\ref\mis-221-lab-4-smrayon.dll
